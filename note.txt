@@ -1,0 +1,4 @@
+Thứ tự install: 
+npm i express
+npm install nodemon --save-dev
+
